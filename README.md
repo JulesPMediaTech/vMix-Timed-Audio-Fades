@@ -10,7 +10,7 @@ Vmix is one of the best live streaming applications on the market at this time. 
 
 * No audio fades! The only way you can do it is by using the Fade To Black control. Not ideal. ...UNTIL NOW....
 
-Putting all that aside, one of vMix's strengths is the scripting implementation. It's real under-the-hood power for your workflows. There are 2 choices for this: url-based and a tailored version of vb.net
+Putting all that aside, one of vMix's strengths is the scripting implementation. It's real under-the-hood power for your workflows. There are 2 choices for this: url-based and a tailored version of vb.net.
 All my scripts are based on the vb.net implementation.
 
 The scripting workflow in vMix is self-contained, meaning that unfortunately you can't just link to external scripts. In the grand scheme of things this is a good thing as a missing external file could easily sabotage your session. Definitely not what you want when you have a demanding client on the other side of the world with a ton of last minute changes before you go to air! However, it does make things a little primitive if you are using a code editor; you have to copy and paste your code into vMix's script window.
