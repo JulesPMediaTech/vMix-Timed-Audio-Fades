@@ -17,7 +17,8 @@ Being an audio guy, this is the area where my gripes are.
 The linear volume system...
 At the lower volume levels, the linear system is less useful. To this end, the fade speed increases the lower the volume gets in a downward fade. 
 Conversely, going from 0 upwards, the fade speed starts fast and decreases.
-This is the more desirable behaviour that has been implemented.
+This is the more desirable behaviour thas has been implemented.
+
 ------------------------------------------------------
 
 To INSTALL
